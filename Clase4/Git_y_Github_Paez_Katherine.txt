@@ -1,0 +1,8 @@
+1.	Git fue creado en 2005 por Linus Torvalds, para ser utilizado en el desarrollo del kernel de Linux, uno de los proyectos de código abierto más grandes del mundo en el que participan cientos de desarrolladores, los cuales usaban BitKeeper como sistema de control de versiones, pero, debido a que este era un software propietario y a ciertas desavenencias con su creador, tuvieron la necesidad de buscar una nueva opción. 
+Fuente: https://www.conasa.es/blog/git-10-anos-controlando-versiones/#:~:text=Git%20es%20un%20sistema%20de,MacOS%20X%20y%20GNU%2FLinux.
+
+2.	Desde 2018 pertenece a Microsoft, empresa que ha adoptado una estrategia más abierta al software libre y a la integración con otras plataformas y servicios, y que, al tener el control de GitHub, también se hace con la comunidad de desarrollo más nutrida del planeta. Adicionalmente, con la explosión de cloud services, Microsoft tiene que competir con AWS de Amazon, y con esta adquisición puede estar en contacto directo con los desarrolladores que trabajan en esos servicios, ver sus necesidades y ofrecerles herramientas que faciliten su integración con Azure.
+
+Fuente: https://naukas.com/2018/06/06/microsoft-compra-github/ 
+
+3.	Sí es posible, por medio de la aplicación GitHub Desktop.
